@@ -1,0 +1,20 @@
+{
+  "name": "ghibli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass src/resources/scss:src/public/assets/css -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piggyisnoob/Ghibli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piggyisnoob/Ghibli/issues"
+  },
+  "homepage": "https://github.com/piggyisnoob/Ghibli#readme"
+}
